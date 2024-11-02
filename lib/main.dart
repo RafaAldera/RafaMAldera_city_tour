@@ -65,7 +65,7 @@ class HomeScreen extends StatelessWidget {
               SizedBox(height: 8),
               Text(
                 'Blue body of water',
-                style: TextStyle(fontSize: 20),
+                style: TextStyle(fontSize: 12),
                 textAlign: TextAlign.left,
               ),
             ],
